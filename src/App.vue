@@ -40,7 +40,7 @@ onMounted(() => {
   background-attachment: fixed;
   background-position: center;
   display: flex;
-  align-items: start;
+  align-items: flex-start;
   justify-content: center;
 }
 </style>
